@@ -1,5 +1,4 @@
 # Password Generator
-# Run Buddy Inc.
 
 ## Purpose
 Random Password Generator
